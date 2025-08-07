@@ -24,23 +24,23 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.ibb.co/5QGXsHj/1754238108766.jpg"];
+["https://i.ibb.co/Mynwt6BS/FB-IMG-1754589433777.jpg"];
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇮🇳 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ »𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭ꡳ 3:)  ;*👑🥀
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ ».†⃞«❮ 𓆩※𓆪 𓆩𝐃ə͙̽ᴠ͢ɪɭ𓆪 𓆩𓆪 ❯» ⃞† 3:)  ;*👑🥀
 
-🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/King.Bolti.he.public 💞🕊️
+🙈bot andmin owner facebook id link🙈➪ https://www.facebook.com/DEVIL.BOLTI.PUBLIC 💞🕊️
 
-👋For Any Kind Of Help Contact On Telegram  Username 👉 @»𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭ꡳ 3:)  ;*😇
+👋For Any Kind Of Help Contact On Telegram  Username 👉 @».†⃞«❮ 𓆩※𓆪 𓆩𝐃ə͙̽ᴠ͢ɪɭ𓆪 𓆩𓆪 ❯» ⃞† 3:)  ;*😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ »𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭ꡳ 3:)  ;*
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ ».†⃞«❮ 𓆩※𓆪 𓆩𝐃ə͙̽ᴠ͢ɪɭ𓆪 𓆩𓆪 ❯» ⃞† 3:)  ;*
 
 🥳UPTIME🥳
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒»𝑲̭̭̭̭̭𝒊𝒏͡𝒈𝒐̽𝒇𝑻𝒓𝒊͜𝒄̌̌̌̌̌𝒌𝒆͡𝒓̭̭̭̭̭ꡳ 3:)  ;*🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒».†⃞«❮ 𓆩※𓆪 𓆩𝐃ə͙̽ᴠ͢ɪɭ𓆪 𓆩𓆪 ❯» ⃞†;*🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
